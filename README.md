@@ -1,6 +1,7 @@
 # Hi there 👋 🙋🏻‍♂️
 ## My name is Elchin
-## I'm a junior Front-end developer.
+I'm a junior Front-end developer.
+### Mail me or check my site-resume
 
 <!--
 **elchinhumbatov/elchinhumbatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
