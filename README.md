@@ -1,8 +1,7 @@
 # Hi there 👋 🙋🏻‍♂️
-## My name is Elchin
-I'm a junior Front-end developer.
+## My name is Elchin, I'm a junior Front-end developer.
 ### Languages and Technologies 
-![rlogo](https://raw.githubusercontent.com/elchinhumbatov/elchinhumbatov/main/boot.png)
+![Bootstrap](https://raw.githubusercontent.com/elchinhumbatov/elchinhumbatov/main/boot.png) Bootstrap
 ### Mail me or check my site-resume
 
 <!--
