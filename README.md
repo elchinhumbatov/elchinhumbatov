@@ -10,6 +10,7 @@ I'm a junior Front-end developer.
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![rlogo](https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png)
 ### Mail me or check my site-resume
 
 <!--
