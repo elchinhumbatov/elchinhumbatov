@@ -1,7 +1,7 @@
 # Hi there 👋 🙋🏻‍♂️
 ## My name is Elchin, I'm a junior Front-end developer.
 ### Languages and Technologies:
-[html]![HTML](https://raw.githubusercontent.com/elchinhumbatov/elchinhumbatov/main/icons/html.png "logo")
+[html](![HTML](https://raw.githubusercontent.com/elchinhumbatov/elchinhumbatov/main/icons/html.png "logo"))
   ![CSS](https://raw.githubusercontent.com/elchinhumbatov/elchinhumbatov/main/icons/css.png)
   ![Javascript](https://raw.githubusercontent.com/elchinhumbatov/elchinhumbatov/main/icons/js.png)
   ![Angular](https://raw.githubusercontent.com/elchinhumbatov/elchinhumbatov/main/icons/ang.png)
