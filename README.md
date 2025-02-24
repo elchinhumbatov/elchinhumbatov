@@ -10,4 +10,4 @@
 
 ### Main Languages and Technologies:
 ![icons](https://raw.githubusercontent.com/elchinhumbatov/elchinhumbatov/main/icons.png) 
-### Mail me or check my [site-resume](http://bit.ly/elchincv)
+### Mail me or check my [site-resume](https://elchinhumbatov.vercel.app/)
